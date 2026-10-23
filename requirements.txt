@@ -1,0 +1,7 @@
+streamlit
+torch
+numpy
+pillow
+opencv-python-headless>=4.8,<5
+huggingface_hub
+gradio_client
